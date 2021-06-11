@@ -1,0 +1,47 @@
+
+* {
+    border: solid;
+}
+
+h1{
+    color:cyan
+}
+h2{
+    color:orchid
+}
+h3{
+    color:blue
+}
+h4{
+    color:palegreen
+}
+h5{
+    color:whitesmoke
+}
+h6{
+    color:black
+}
+
+
+ .head{
+    display: flex;
+    justify-content : center;
+    }
+
+    .oragami{
+        background-color:coral;
+            display: flex;
+            justify-content : flex-end;
+            }
+            
+ .base{
+    background-color:coral;
+        display: flex;
+        justify-content : flex-start;
+        }
+
+ .end{
+    display:flex;
+    justify-content : center;
+    order:5;
+    }

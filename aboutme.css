@@ -1,0 +1,75 @@
+
+* {
+    border: solid;
+}
+
+h1{
+    color:cyan
+}
+h2{
+    color:orchid
+}
+h3{
+    color:blue
+}
+h4{
+    color:palegreen
+}
+h5{
+    color:whitesmoke
+}
+h6{
+    color:black
+}
+
+
+ .intro{
+    display: flex;
+    justify-content : center;
+    }
+
+ .oragami{
+    background-color:coral;
+        display: flex;
+        justify-content : flex-end;
+        }
+
+ .base{
+    display:flex;
+    justify-content : flex-start;
+    order:5;
+    }
+    
+ .base2{
+    display:flex;
+    justify-content : first baseline;
+ 
+    }
+    
+ .base3{
+    display:flex;
+    justify-content : first baseline;
+
+    }
+    
+ .base4{
+    display:flex;
+    justify-content : flex-end;
+
+    }
+
+    .end{
+        background-color:lightgray;
+        display:flex;
+        justify-content : center;
+    
+        }
+ .thankyou{
+   display:flex;
+   
+
+ }
+    
+body{
+ background:grey;
+}

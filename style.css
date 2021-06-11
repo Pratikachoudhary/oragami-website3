@@ -1,0 +1,21 @@
+h1{
+               
+    color: rgb(31, 255, 1);
+}
+h2{
+    color:blueviolet;
+}
+h3{
+    color:pink;
+}
+h4{
+    color:chocolate;
+}
+
+*{
+    border:solid;
+ }
+
+ body{
+    background:grey;
+   }
